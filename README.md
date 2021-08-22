@@ -8,6 +8,8 @@ Bobby's boss wants to determine the number of retiring employees per title, and 
 ### The following Retiring Titles table contains the number of titles filled by employees who are retiring.(employees who were born between January 1st, 1952 and December 31st, 1955.)
 ![Untitled](https://user-images.githubusercontent.com/38533045/130368728-118e779e-4c58-4c60-920a-36a0d701ce9d.png)
 
+![Untitled10](https://user-images.githubusercontent.com/38533045/130370669-6764c6f3-b19c-4223-9463-0e90c1dd6be5.png)
+
 Analyz the data a bit, we can conclud:
 
 90,398 employees or 37.7% of the company's total current employees will be retiring soon.
@@ -19,7 +21,6 @@ Only 2 Managers will be retiring soon. It seems that management renewal has been
 ### Mentorship Eligibility table was created and it holds all the current employees who were born between January 1st, 1965 and December 31st, 1965.
 ![Untitled1](https://user-images.githubusercontent.com/38533045/130368780-aba6e2f9-46a0-4a4f-8d94-494e87192735.png)
 
-![Untitled3](https://user-images.githubusercontent.com/38533045/130368821-a43f9e45-b468-4bd0-97a2-5b56499d2757.png)
 
 ## Summary
 90,398 roles will need to be filled as the "silver tsunami" begins to make an impact.
