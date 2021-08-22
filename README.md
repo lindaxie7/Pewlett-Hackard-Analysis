@@ -19,7 +19,7 @@ Only 2 Managers will be retiring soon. It seems that management renewal has been
 ### Mentorship Eligibility table was created and it holds all the current employees who were born between January 1st, 1965 and December 31st, 1965.
 ![Untitled1](https://user-images.githubusercontent.com/38533045/130368780-aba6e2f9-46a0-4a4f-8d94-494e87192735.png)
 
-
+![Untitled3](https://user-images.githubusercontent.com/38533045/130368821-a43f9e45-b468-4bd0-97a2-5b56499d2757.png)
 
 ## Summary
 90,398 roles will need to be filled as the "silver tsunami" begins to make an impact.
