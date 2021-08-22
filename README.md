@@ -6,7 +6,7 @@ Bobby's boss wants to determine the number of retiring employees per title, and 
 
 ## Results
 ### The following Retiring Titles table contains the number of titles filled by employees who are retiring.(employees who were born between January 1st, 1952 and December 31st, 1955.)
-![Capture](https://user-images.githubusercontent.com/38533045/130368600-432484a1-28f0-49a2-b611-6550a22126ad.JPG)
+![Untitled](https://user-images.githubusercontent.com/38533045/130368728-118e779e-4c58-4c60-920a-36a0d701ce9d.png)
 
 Analyz the data a bit, we can conclud:
 
