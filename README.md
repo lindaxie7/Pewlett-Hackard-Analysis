@@ -5,7 +5,8 @@
 Bobby's boss wants to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program, he also wants a report that summarizes the analysis and helps prepare for the “silver tsunami” as many current employees reach retirement age.
 
 ## Results
-### The following Retiring Titles table contains the number of titles filled by employees who are retiring(employees who were born between January 1st, 1952 and December 31st, 1955.).
+### The following Retiring Titles table contains the number of titles filled by employees who are retiring.(employees who were born between January 1st, 1952 and December 31st, 1955.)
+![Capture](https://user-images.githubusercontent.com/38533045/130368600-432484a1-28f0-49a2-b611-6550a22126ad.JPG)
 
 Analyz the data a bit, we can conclud:
 
