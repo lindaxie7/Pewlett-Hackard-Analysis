@@ -24,8 +24,11 @@ Only 2 Managers will be retiring soon. It seems that management renewal has been
 
 ## Summary
 90,398 roles will need to be filled as the "silver tsunami" begins to make an impact.
+
 There are 1,549 eligible mentors in the company. If we assume that they will all be willing to participate in the mentorship program, it will imply that each mentor would have an average of 58 mentees, so we can conclude that there is not enough mentors to prepare the next generation of Pewlett Hackard employees.
 ![Untitled9](https://user-images.githubusercontent.com/38533045/130370706-83691e44-6b10-4d22-beb2-327cf1a6d5d4.png)
+
+
 The following tables give us the number of retirement-ready employees and the number of eligible mentors per department. It shows that all departments are lacking mentors.
 
 
