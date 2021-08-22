@@ -17,7 +17,7 @@ Senior Engineer, Senior Staff and Engineer will be the most impacted positions w
 Only 2 Managers will be retiring soon. It seems that management renewal has been to focus of the company to the detriment of technical positions renewal.
 
 ### Mentorship Eligibility table was created and it holds all the current employees who were born between January 1st, 1965 and December 31st, 1965.
-
+![Untitled1](https://user-images.githubusercontent.com/38533045/130368780-aba6e2f9-46a0-4a4f-8d94-494e87192735.png)
 
 
 
