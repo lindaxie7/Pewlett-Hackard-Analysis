@@ -30,6 +30,7 @@ There are 1,549 eligible mentors in the company. If we assume that they will all
 ![Untitled11](https://user-images.githubusercontent.com/38533045/130370937-e9b03026-3279-4ec7-87d3-81adced2586f.png)
 
 The following tables give us the number of retirement-ready employees and the number of eligible mentors per department. It shows that all departments are lacking mentors.
+![Untitled15](https://user-images.githubusercontent.com/38533045/130371100-31232be2-c701-4a1d-b5d1-8985f43d98e6.png)
 
 
 
