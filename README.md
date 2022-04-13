@@ -1,7 +1,7 @@
 # Silver-Tsunami-Analysis
 
 ### SQL Queries Code
-[Employee Database Queries](https://github.com/lindaxie7/Income-Prediction/blob/main/data_cleaning.ipynb)
+[Employee Database Queries](https://github.com/lindaxie7/Silver-Tsunami-Analysis/blob/main/Queries/Employee_Database_challenge.sql)
 
 ## Overview of Project
 
