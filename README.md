@@ -1,11 +1,11 @@
 # Silver-Tsunami-Analysis
 
-### Employee Database SQL Queries
-[Code](https://github.com/lindaxie7/Silver-Tsunami-Analysis/blob/main/Queries/Employee_Database_challenge.sql)
-
 ## Overview of Project
 
 Bobby's boss wants to determine the number of retiring employees per title, to identify employees who are eligible to participate in a mentorship program, he also wants a report that summarizes the analysis and helps prepare for the “silver tsunami” as many current employees reach retirement age.
+
+### Employee Database SQL Queries
+[Code](https://github.com/lindaxie7/Silver-Tsunami-Analysis/blob/main/Queries/Employee_Database_challenge.sql)
 
 ## Results
 ### The following Retiring Titles table contains the number of titles filled by employees who are retiring.(employees who were born between January 1st, 1952 and December 31st, 1955.)
