@@ -1,5 +1,12 @@
 # Silver-Tsunami-Analysis
 
+### SQL Queries Code
+[Data cleaning code](https://github.com/lindaxie7/Income-Prediction/blob/main/data_cleaning.ipynb)
+
+[Analyze data with different machine leanring models code](https://github.com/lindaxie7/Income-Prediction/blob/main/income_ML_model.ipynb)
+
+[Live prediction with Logistic Regression code](https://github.com/lindaxie7/Income-Prediction/blob/main/app.py)
+
 ## Overview of Project
 
 Bobby's boss wants to determine the number of retiring employees per title, to identify employees who are eligible to participate in a mentorship program, he also wants a report that summarizes the analysis and helps prepare for the “silver tsunami” as many current employees reach retirement age.
