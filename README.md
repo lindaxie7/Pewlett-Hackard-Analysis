@@ -1,7 +1,7 @@
 # Silver-Tsunami-Analysis
 
-### SQL Queries Code
-[Employee Database Queries](https://github.com/lindaxie7/Silver-Tsunami-Analysis/blob/main/Queries/Employee_Database_challenge.sql)
+### Employee Database SQL Queries
+[Code](https://github.com/lindaxie7/Silver-Tsunami-Analysis/blob/main/Queries/Employee_Database_challenge.sql)
 
 ## Overview of Project
 
